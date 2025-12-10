@@ -1,0 +1,26 @@
+[
+{
+  "cep": "82540-110",
+  "logradouro": "Rua Carlos de Campos",
+  "complemento": "até 849/850",
+  "bairro": "Boa Vista",
+  "localidade": "Curitiba",
+  "uf": "PR",
+  "ibge": "4106902",
+  "gia": "",
+  "ddd": "41",
+  "siafi": "7535"
+},
+{
+  "cep": "88085-201",
+  "logradouro": "Rua João Meirelles",
+  "complemento": "de 897/898 ao fim",
+  "bairro": "Abraão",
+  "localidade": "Florianópolis",
+  "uf": "SC",
+  "ibge": "4205407",
+  "gia": "",
+  "ddd": "48",
+  "siafi": "8105"
+}
+]
