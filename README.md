@@ -1,7 +1,7 @@
 ViaCEP Fullstack - Buscador de Endereços
 Aplicação fullstack desenvolvida como desafio do curso Oracle Next Education (ONE) + Alura. Backend Java puro com servidor HTTP nativo, frontend React + TypeScript.
 
-![Demonstração da aplicação](./public/gif-viacep-front-working.gif)
+![Demonstração da aplicação](public/gif-viacep-front-working.gif)
 
 🎯 Objetivo
 Transformar um desafio Java de console em aplicação web completa, demonstrando integração entre backend e frontend sem uso de frameworks pesados.
